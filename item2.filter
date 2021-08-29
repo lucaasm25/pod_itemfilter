@@ -1,6 +1,6 @@
 //Hide Gold Piles Smaller Than (<) X
 ItemDisplay[GOLD<100 CLVL<20]:
-ItemDisplay[GOLD<1000 (CLVL>19 AND CLVL<70)]:
+ItemDisplay[GOLD<500 (CLVL>19 AND CLVL<70)]:
 ItemDisplay[GOLD<5000 CLVL>69]:
 //Health & Mana Potions
 ItemDisplay[rvl]: %PURPLE%R %WHITE%70%
